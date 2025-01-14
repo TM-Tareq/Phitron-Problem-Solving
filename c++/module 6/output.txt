@@ -1,0 +1,4 @@
+Hello from Sakib Ahmed
+Total marks of Sakib Ahmed=50
+Hello from Rakib Ahmed
+Total marks of Rakib Ahmed=80
