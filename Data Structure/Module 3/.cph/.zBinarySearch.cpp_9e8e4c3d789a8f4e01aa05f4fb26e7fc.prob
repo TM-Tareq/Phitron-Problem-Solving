@@ -1,0 +1,1 @@
+{"name":"Local: zBinarySearch","url":"e:\\Phitron\\Data Structure\\Module 3\\zBinarySearch.cpp","tests":[{"id":1737836971879,"input":"5 3\n1 5 4 3 2\n5\n3\n6\n","output":"found\nfound\nnot found\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Data Structure\\Module 3\\zBinarySearch.cpp","group":"local","local":true}
