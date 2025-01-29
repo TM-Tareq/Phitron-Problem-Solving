@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include<stdbool.h>
+
 int main() {
     int N;
     scanf("%d", &N);
@@ -9,7 +11,22 @@ int main() {
         scanf("%d", &arr[i]);
     }
 
-    if(N % 2 == 0) {
-        
+    int i = 0, j = N - 1;
+
+    bool pal = true;
+
+    while(i <= j) {
+        if(arr[i] != arr[j]) {
+            pal = false;
+            break;
+        }
+        i++;
+        j--;
     }
+
+    if(pal) printf("YES\n");
+    else printf("NO\n");
+
+    return 0;
+    
 }

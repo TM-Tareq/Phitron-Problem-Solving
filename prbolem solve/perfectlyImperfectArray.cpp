@@ -11,23 +11,33 @@ int main() {
 
         int arr[n];
 
+        bool mark = false;
+
         for(int i = 0; i < n; i++) {
             cin >> arr[i];
+            if(sqrt(arr[i]) != (int)sqrt(arr[i])) {
+                mark = true;
+            }
         }
 
-        long long int product = 1;
+        // long long int product = 1;
 
-        for(int i = 0; i < n; i++) {
-            product *= arr[i];
-        }
+        // for(int i = 0; i < n; i++) {
+        //     product *= arr[i];
+        // }
 
-        // cout << product << endl;
+        // // cout << product << endl;
 
-        int roundValue = round(sqrt(product));
+        // long long int roundValue = round(sqrt(product));
 
-        long long int result = roundValue * roundValue;
+        // long long int result = (roundValue * roundValue);
 
-        if(result != product) {
+        // if(result != product) {
+        //     cout << "YES" << endl;
+        // } else {
+        //     cout << "NO" << endl;
+        // }
+        if(mark) {
             cout << "YES" << endl;
         } else {
             cout << "NO" << endl;
