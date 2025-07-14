@@ -1,0 +1,1 @@
+{"name":"Local: call_stack_1","url":"e:\\Phitron\\Batch 7\\Introduction to C\\M 17 Recursion\\call_stack_1.c","tests":[{"id":1749128417244,"input":"","output":"Hi\nHello\nGello\nMello"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Batch 7\\Introduction to C\\M 17 Recursion\\call_stack_1.c","group":"local","local":true}

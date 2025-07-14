@@ -1,0 +1,31 @@
+Answer-a:
+        A linked list requires more memory than an array because
+        in addition to storing the actual data, each node of a linked
+        list also stores a pointe(or reference) to the next node.
+        This extra pointer increases the memory consumption.
+        In contrast, an array only stores the data elements in
+        contiguous memory locations without additional pointers.
+
+
+Answer-b:
+
+Fixed Size – Arrays have a fixed size, meaning you need to define the size
+at the time of declaration. A linked list is dynamic and can grow or shrink
+at runtime.
+
+Insertion and Deletion Complexity – Inserting or deleting an element in an
+array is expensive as it may require shifting elements.
+In a linked list, insertion and deletion can be done in O(1) time
+if we have the pointer to the position.
+
+Memory Utilization – Arrays may have unused memory if declared with a
+larger size, whereas linked lists use memory efficiently by allocating
+space only when needed.
+
+Answer-c: 5
+
+Answer-d: 1020
+
+Answer-e: 1
+
+Answer-f: Sum = 13

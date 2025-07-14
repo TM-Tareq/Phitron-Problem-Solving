@@ -1,0 +1,1 @@
+{"name":"Local: 9_print_an_array","url":"e:\\Phitron\\Batch 7\\Introduction to C\\M 17 Recursion\\9_print_an_array.c","tests":[{"id":1749145839502,"input":"5\n10 20 30 40 50","output":"10 20 30 40 50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Batch 7\\Introduction to C\\M 17 Recursion\\9_print_an_array.c","group":"local","local":true}

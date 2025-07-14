@@ -1,0 +1,1 @@
+{"name":"Local: divisors","url":"e:\\Phitron\\Batch 7\\Introduction to C\\P 6.5 Problem\\divisors.c","tests":[{"id":1747892107893,"input":"6","output":""},{"id":1747892110397,"input":"7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Batch 7\\Introduction to C\\P 6.5 Problem\\divisors.c","group":"local","local":true}

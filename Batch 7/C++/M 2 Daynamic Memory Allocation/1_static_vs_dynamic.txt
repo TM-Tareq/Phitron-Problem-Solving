@@ -1,0 +1,2 @@
+Stack-> Static, Compile time, Limited Memory, Automatic Memory Clear
+Heap-> Dynamic, Runtime, More Memory, User Instructed

@@ -1,0 +1,1 @@
+{"name":"Local: C_replacement","url":"e:\\Phitron\\Batch 7\\Introduction to C\\PP 7.5 mixed\\C_replacement.c","tests":[{"id":1748244362863,"input":"5\n1 -2 0 3 4\n","output":"1 2 0 1 1 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Batch 7\\Introduction to C\\PP 7.5 mixed\\C_replacement.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 3_2d_array","url":"e:\\Phitron\\Batch 7\\Introduction to C\\M 18 2D Array\\3_2d_array.c","tests":[{"id":1749199551675,"input":"3 3\n1 2 3\n4 5 6\n7 8 9","output":"1 2 3 \n4 5 6 \n7 8 9 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Batch 7\\Introduction to C\\M 18 2D Array\\3_2d_array.c","group":"local","local":true}

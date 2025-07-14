@@ -1,0 +1,1 @@
+{"name":"Local: drawASquare","url":"e:\\Phitron\\prbolem solve\\drawASquare.cpp","tests":[{"id":1742654007338,"input":"2\n2 2 2 2\n1 2 3 4\n","output":"Yes\nNo\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\prbolem solve\\drawASquare.cpp","group":"local","local":true}

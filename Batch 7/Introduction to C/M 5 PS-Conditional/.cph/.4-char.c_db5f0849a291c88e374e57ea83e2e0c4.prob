@@ -1,0 +1,1 @@
+{"name":"Local: 4-char","url":"e:\\Phitron\\Batch 7\\Introduction to C\\M 5 PS-Conditional\\4-char.c","tests":[{"id":1747674952415,"input":"a\n","output":""},{"id":1747706671430,"input":"A\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Batch 7\\Introduction to C\\M 5 PS-Conditional\\4-char.c","group":"local","local":true}

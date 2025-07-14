@@ -1,0 +1,1 @@
+{"name":"Local: A_Add","url":"e:\\Phitron\\Batch 7\\Introduction to C\\PP 15.5 Pointer and Function, Sorting\\A_Add.c","tests":[{"id":1748878205421,"input":"5 2\n","output":"7\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Batch 7\\Introduction to C\\PP 15.5 Pointer and Function, Sorting\\A_Add.c","group":"local","local":true}

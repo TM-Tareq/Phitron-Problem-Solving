@@ -1,0 +1,7 @@
+Stack operation:
+
+-push()
+-pop()
+-top()
+-size()
+-empty()

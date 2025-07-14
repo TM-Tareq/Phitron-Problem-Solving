@@ -1,0 +1,1 @@
+{"name":"Local: A_square_year","url":"e:\\Phitron\\Problem Solving\\A_square_year.c","tests":[{"id":1748271941815,"input":"5\n0001\n1001\n1000\n4900\n2025\n","output":"0 1\n-1\n-1\n34 36\n20 25\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Problem Solving\\A_square_year.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 5-delete","url":"e:\\Phitron\\Batch 7\\Introduction to C\\M 9 Array Operations\\5-delete.c","tests":[{"id":1748335148160,"input":"3\n10 20 30\n1","output":"10 30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Batch 7\\Introduction to C\\M 9 Array Operations\\5-delete.c","group":"local","local":true}

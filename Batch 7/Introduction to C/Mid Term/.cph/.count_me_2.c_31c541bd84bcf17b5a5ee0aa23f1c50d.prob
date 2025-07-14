@@ -1,0 +1,1 @@
+{"name":"Local: count_me_2","url":"e:\\Phitron\\Batch 7\\Introduction to C\\Mid Term\\count_me_2.c","tests":[{"id":1748584193527,"input":"thefoxisgone","output":"7"},{"id":1748584201673,"input":"sjxapw","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Batch 7\\Introduction to C\\Mid Term\\count_me_2.c","group":"local","local":true}
