@@ -2,6 +2,7 @@
 using namespace std;
 
 class Student {
+    public:
     char name[100];
     int id;
     char section[10];
@@ -13,9 +14,32 @@ int main() {
     cin >> t;
 
     while(t--) {
-        Student sakib, rakib, akib;
 
-        cin >> sakib.id;
+        int n;
+        cin >> n;
+        Student students[n];
+
+        for(int i = 1; i <= n; i++) {
+            cin >> students[i].id >> students[i].name >> students[i].section >> students[i].total_marks;
+        
+        }
+
+        int highest_marks = 0;
+
+        Student st;
+
+        for(int i = 1; i <= n; i++) {
+            if(students[i].total_marks == highest_marks && students[i].id < st.id) {
+                st = students[i];
+            }
+            if(students[i].total_marks > highest_marks) {
+                highest_marks = students[i].total_marks;
+                st = students[i];
+            }
+        }
+
+        cout << st.id << " " << st.name << " " << st.section << " " << st.total_marks << endl;
+
     }
 
     return 0;
