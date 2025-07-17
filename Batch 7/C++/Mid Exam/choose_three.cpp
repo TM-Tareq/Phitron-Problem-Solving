@@ -18,26 +18,21 @@ int main() {
 
         int freq[n] = {0};
 
-        for(int i = 0; i < n - 1; i++) {
-
-            for(int j = 0; j < n; j++) {
-                freq[j] = arr[i] + arr[j];
-            }
-
-            int freq2[n] = {0};
-
-            for(int k = 0; k < n; k++) {
-
-                freq2[k] = freq[i] + arr[k];
-
-                if(sum == freq2[i]) {
-                    flag = 1;
+        for(int i = 0; i < n; i++) {
+            for(int j = i + 1; j < n; j++) {
+                for(int k = j + 1; k < n; k++) {
+                    if(arr[i] + arr[j] + arr[k] == sum) {
+                        flag = 1;
+                        break;
+                    }
                 }
+                if(flag == 1) break;
             }
+            if(flag == 1) break;
         }
 
-        if(flag) cout << "YES";
-        else cout << "NO";
+        if(flag == 1) cout << "YES" << endl;
+        else cout << "NO" << endl;
 
     }
 

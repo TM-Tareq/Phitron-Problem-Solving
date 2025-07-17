@@ -15,20 +15,18 @@ int main() {
 
     while(t--) {
 
-        int n;
-        cin >> n;
-        Student students[n];
+        Student students[3];
 
-        for(int i = 1; i <= n; i++) {
+        for(int i = 0; i < 3; i++) {
             cin >> students[i].id >> students[i].name >> students[i].section >> students[i].total_marks;
         
         }
 
         int highest_marks = 0;
 
-        Student st;
+        Student st = students[0];
 
-        for(int i = 1; i <= n; i++) {
+        for(int i = 0; i < 3; i++) {
             if(students[i].total_marks == highest_marks && students[i].id < st.id) {
                 st = students[i];
             }
