@@ -5,11 +5,11 @@ int main() {
     cin >> a >> b;
 
     int d, r;
-    float f;
+    double f;
 
     d = a / b;
     r = a % b;
-    f = (float)a / b;
+    f = (double)a / b;
 
     cout << fixed << setprecision(5);
     cout << d << " " << r << " " << f;

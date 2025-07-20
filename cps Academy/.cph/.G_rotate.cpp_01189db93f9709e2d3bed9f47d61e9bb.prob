@@ -1,0 +1,1 @@
+{"name":"Local: G_rotate","url":"e:\\Phitron\\cps Academy\\G_rotate.cpp","tests":[{"id":1752994894828,"input":"123\n","output":"666\n"},{"id":1752994901186,"input":"999\n","output":"2997\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\cps Academy\\G_rotate.cpp","group":"local","local":true}

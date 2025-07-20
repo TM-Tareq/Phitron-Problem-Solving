@@ -1,0 +1,1 @@
+{"name":"Local: C_circle","url":"e:\\Phitron\\cps Academy\\C_circle.cpp","tests":[{"id":1752988853395,"input":"2","output":"12.566371 12.566371\n"},{"id":1752988893824,"input":"3","output":"28.274334 18.849556\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\cps Academy\\C_circle.cpp","group":"local","local":true}
