@@ -1,0 +1,1 @@
+{"name":"Local: U_new_words","url":"e:\\Phitron\\Batch 7\\C++\\PP 6.5\\U_new_words.cpp","tests":[{"id":1753163487848,"input":"EgYpTaz\n","output":"1"},{"id":1753194840487,"input":"pemigdbeigyypetet\n","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Batch 7\\C++\\PP 6.5\\U_new_words.cpp","group":"local","local":true}

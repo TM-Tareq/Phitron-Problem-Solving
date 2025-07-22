@@ -11,18 +11,27 @@ int main() {
         int slen = s.size();
         int tlen = t.size();
 
-        if(slen == tlen) {
-            for(int i = 0; i < s.size(); i++) {
-                for(int j = 0; j < t.size(); j++) {
-                    s.push_back(t[j]);
+        int size = s.size() + t.size();
+
+        string str;
+        int flag1 = 1, flag2 = 1;
+
+            for(int i = 0; i < size; i++) {
+                if(s.size() != i && flag1) {
+                    cout << s[i];
+                } else {
+                    flag1 = 0;
+                }
+                if(t.size() != i && flag2) {
+                    cout << t[i];
+                } else {
+                    flag2 = 0;
                 }
             }
-        } else {
-
-        }
-
-        cout << s << " " << t << endl;
+        cout << endl;
     }
 
     return 0;
 }
+
+// https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/K
