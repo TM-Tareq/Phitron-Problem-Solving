@@ -1,0 +1,1 @@
+{"name":"Local: A_lucky","url":"e:\\Phitron\\Batch 7\\C++\\PP 6.5\\A_lucky.cpp","tests":[{"id":1753234166245,"input":"5\n213132\n973894\n045207\n000000\n055776\n","output":"YES\nNO\nYES\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Batch 7\\C++\\PP 6.5\\A_lucky.cpp","group":"local","local":true}
